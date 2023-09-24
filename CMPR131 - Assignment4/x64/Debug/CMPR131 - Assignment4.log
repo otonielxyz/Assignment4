@@ -1,0 +1,7 @@
+﻿  polynomials.cpp
+C:\CMPR131\CMPR131 - Assignment4\polynomials.cpp(129,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CMPR131\CMPR131 - Assignment4\polynomials.cpp(176,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CMPR131\CMPR131 - Assignment4\polynomials.cpp(206,80): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CMPR131\CMPR131 - Assignment4\polynomials.cpp(222,80): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CMPR131\CMPR131 - Assignment4\polynomials.cpp(238,87): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CMPR131 - Assignment4.vcxproj -> C:\CMPR131\CMPR131 - Assignment4\x64\Debug\CMPR131 - Assignment4.exe
